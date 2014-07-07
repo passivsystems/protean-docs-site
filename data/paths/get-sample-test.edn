@@ -1,0 +1,1 @@
+{:curl "curl -v -H 'X-Auth: XYZ' 'http://host:1234/sample/test?blurb=flibble'", :uri-path "sample/test", :id "get-sample-test", :codex {:body-res nil, :success-code nil, :content-type nil}, :doc "Get with mandatory request headers/query str params", :req-params {"blurb" "flibble"}, :uri "http://host:1234/sample/test", :headers {"X-Auth" "XYZ"}, :method "get"}

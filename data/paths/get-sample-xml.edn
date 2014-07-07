@@ -1,0 +1,1 @@
+{:curl "curl -v 'http://host:1234/sample/xml'", :uri-path "sample/xml", :id "get-sample-xml", :codex {:body-res nil, :success-code nil, :content-type "text/xml"}, :doc "Get with XML content type/response", :uri "http://host:1234/sample/xml", :method "get"}

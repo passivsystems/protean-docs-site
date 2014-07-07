@@ -1,0 +1,1 @@
+{:curl "curl -v -X PUT 'http://host:1234/sample/multimethod'", :uri-path "sample/multimethod", :id "put-sample-multimethod", :codex {:body-res nil, :success-code nil, :content-type nil}, :doc "A put on sample/multimethod", :uri "http://host:1234/sample/multimethod", :method "put"}

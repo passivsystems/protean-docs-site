@@ -1,0 +1,1 @@
+{:curl "curl -v 'http://host:1234/sample/slow'", :uri-path "sample/slow", :id "get-sample-slow", :codex {:body-res nil, :success-code nil, :content-type nil}, :doc "Get with slow response (secs) - useful for testing timeouts", :uri "http://host:1234/sample/slow", :method "get"}
