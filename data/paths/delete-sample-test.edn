@@ -1,1 +1,1 @@
-{:curl "curl -v -X DELETE 'http://host:1234/sample/test'", :path "sample/test", :id "delete-sample-test", :codex {:body-res nil, :success-code nil, :content-type nil}, :doc "Delete sample", :uri "http://host:1234/sample/test", :method "delete"}
+{:sample-response "N/A", :curl "curl -v -X DELETE 'http://host:1234/sample/test'", :path "sample/test", :id "delete-sample-test", :codex {:body nil, :body-res nil, :success-code nil, :content-type nil}, :doc "Delete sample", :uri "http://host:1234/sample/test", :method "delete"}

@@ -1,0 +1,1 @@
+{:sample-response "N/A", :curl "curl -v 'http://host:1234/sample/header'", :path "sample/header", :id "get-sample-header", :codex {:body nil, :body-res nil, :success-code nil, :content-type nil}, :doc "A get with response header", :uri "http://host:1234/sample/header", :method "get"}
