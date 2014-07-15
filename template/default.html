@@ -3,30 +3,22 @@
   <head>
     <meta charset="utf-8">
     <title>Protean service API documentation</title>
-    <link rel="stylesheet" href="resource/css/bootstrap.min.css">
-    <link rel="stylesheet" href="resource/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="resource/css/docs.min.css">
-    <link rel="stylesheet" media="screen" href="resource/css/main.css">
+    <link rel="stylesheet" href="resource/css/bootstrap.css">
+    <link rel="stylesheet" media="screen" href="resource/css/protean-sample.css">
+    <link rel="stylesheet" type="text/css" href="resource/css/bootstrap-prettify.css">
+    <!-- Reference microformats combined profile -->
+    <link rel="profile" href="http://microformats.org/profile/specs" />
+    <script type="text/javascript" src="resource/js/jquery.js"></script>
+    <script type="text/javascript" src="resource/js/bootstrap.js"></script>
+    <script src="resource/js/prettify/prettify.js"></script>
   </head>
-  <body>
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="/">Protean Sample Service</a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="/">Home</a></li>
-          </ul>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">v<span id="project-version">0.8.1</span></a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </div>
-
-    <div data-sw-view="">
-      View will be inserted here
+  <body onload="prettyPrint();">
+    <div data-sw-component="header">Placeholder for header</div>
+    <br/><br/><br/>
+    <div class="container">
+      <div data-sw-view="">Placeholder for view</div>
+      <script src="resource/js/application.js"></script>
+      <div data-sw-component="footer">Placeholder for footer</div>
     </div>
   </body>
 </html>
