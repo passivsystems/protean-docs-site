@@ -1,1 +1,0 @@
-{:sample-response "N/A", :curl "curl -v 'http://host:1234/sample/multimethod'", :path "sample/multimethod", :id "get-sample-multimethod", :codex {:body nil, :body-res nil, :success-code nil, :content-type nil}, :doc "A get on sample/multimethod", :uri "http://host:1234/sample/multimethod", :method "get"}

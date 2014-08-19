@@ -1,1 +1,0 @@
-{:sample-response "N/A", :curl "curl -v 'http://host:1234/sample/simple'", :path "sample/simple", :id "get-sample-simple", :codex {:body nil, :body-res nil, :success-code nil, :content-type nil}, :doc "A get on sample/simple - doc is optional", :uri "http://host:1234/sample/simple", :method "get"}
